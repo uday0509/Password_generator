@@ -1,7 +1,6 @@
 **Functionalities**
 
-**
-1. Generating a Password:**
+**1. Generating a Password:**
 
 The user answers with "Yes" or "No" to questions about using uppercase letters, lowercase letters, numbers, or symbols.
 The user then enters the desired length of the password.
